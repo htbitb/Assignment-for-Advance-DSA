@@ -1,0 +1,17 @@
+[
+    {
+        "ground_truth": "Xã Thịnh Sơn H. Đô Lương T. Nghệ An",
+        "pred_no_correct": "Xã Thịnh Son H., Đô dương T. Nghệ An",
+        "pred_and_correct": "Xã Thịnh Sơn, Đô Lương, T. Nghệ An"
+    },
+    {
+        "ground_truth": "Xã Hòa Thượng - Đồng Hỷ - Thái Nguyên",
+        "pred_no_correct": "X.Hoi Thuong - Đồng Hỷ- Thái 20yEN",
+        "pred_and_correct": "X. Hòa Thượng"
+    },
+    {
+        "ground_truth": "Tổ 73 - Hoàng Cầu - Đống Đa - Hà Nội",
+        "pred_no_correct": "Tổ 73 - Hoàng Cầu -TP.1 C Xm Đống Da - Hà Ni",
+        "pred_and_correct": "Tổ 73-Hoàng Cầu-TP.1 C Xm, Đống Đa, Hà Nội"
+    }
+]
